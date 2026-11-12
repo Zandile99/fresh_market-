@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864354214730",
+    "project_id": "kwandas-fresh-market",
+    "storage_bucket": "kwandas-fresh-market.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864354214730:android:ec7d6e8652ae580273d7b3",
+        "android_client_info": {
+          "package_name": "com.example.selling_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCe0gBjxWDGpvLW2xnnmLnBgjfkKS3vn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
