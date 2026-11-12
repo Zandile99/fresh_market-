@@ -26,14 +26,13 @@ jobs:
       - name: Setup Flutter
         uses: subosito/flutter-action@v2
         with:
-          flutter-version: '3.29.3'
           channel: stable
 
       - name: Install dependencies
         working-directory: Selling-Mobile-app
         run: flutter pub get
 
-      - name: Build Android APK
+      - name: Build APK
         working-directory: Selling-Mobile-app
         run: flutter build apk --release
 
